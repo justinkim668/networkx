@@ -4,7 +4,7 @@ NetworkX -- Numerical Error Associated with Computing Eigenvalues for the Laplac
 Example
 --------------
 
-![Alt text](download.png)
+![Download](download.png)
 
    
 

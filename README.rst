@@ -3,7 +3,7 @@ NetworkX -- Numerical Error Associated with Computing Eigenvalues for the Laplac
 
 Example
 --------------
-![alt text](https://github.com/justinkim668/networkx/blob/5244fd7620b5e9b80b2aa2399ae56fefb19dafc4/download.png)
+![alt text](https://github.com/justinkim668/networkx/blob/5244fd7620b5e9b80b2aa2399ae56fefb19dafc4/download.png?raw=true)
 
    
 

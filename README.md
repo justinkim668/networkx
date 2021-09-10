@@ -5,7 +5,7 @@ Example
 --------------
 
 Python version: 3.7.  
-NetworkX version: 3.5
+NetworkX version: 2.5
 
 ![Download](download.png)
 

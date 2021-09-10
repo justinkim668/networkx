@@ -12,13 +12,13 @@ Example
 
 Explanation
 --------------
-Here, we have graph H with 3 visible connected components generated using the NetworkX software library.  
+Here, we have unweighted graph H with 3 visible connected components generated using the NetworkX software library.  
 
 ```python
 eig=nx.laplacian_spectrum(H)
 print(eig)
-connected_components = nx.number_connected_components(L)
+connected_components = nx.number_connected_components(H)
 print(connected_components)
 ```
-
+The above code is used to compute the number of connected components in H and the eignvalues of the the Laplacian matrix of graph H.
 

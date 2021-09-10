@@ -4,7 +4,7 @@ NetworkX -- Numerical Error Associated with Computing Eigenvalues for the Laplac
 Example
 --------------
 
-Python version: 3.7
+Python version: 3.7.  
 NetworkX version: 3.5
 
 ![Download](download.png)

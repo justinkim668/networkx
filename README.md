@@ -10,19 +10,15 @@ Example
 
 
 
-Simple example
+Explanation
 --------------
+Here, we have graph H with 3 visible connected components generated using the NetworkX software library.  
 
-Find the shortest path between two nodes in an undirected graph:
+```python
+eig=nx.laplacian_spectrum(H)
+print(eig)
+connected_components = nx.number_connected_components(L)
+print(connected_components)
+```
 
-.. code:: python
-
-    >>> import networkx as nx
-    >>> G = nx.Graph()
-    >>> G.add_edge('A', 'B', weight=4)
-    >>> G.add_edge('B', 'D', weight=2)
-    >>> G.add_edge('A', 'C', weight=3)
-    >>> G.add_edge('C', 'D', weight=4)
-    >>> nx.shortest_path(G, 'A', 'D', weight='weight')
-    ['A', 'B', 'D']
 

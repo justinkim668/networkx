@@ -3,7 +3,8 @@ NetworkX -- Numerical Error Associated with Computing Eigenvalues for the Laplac
 
 Example
 --------------
-![Image](download.png)
+
+![Alt text](download.png)
 
    
 
